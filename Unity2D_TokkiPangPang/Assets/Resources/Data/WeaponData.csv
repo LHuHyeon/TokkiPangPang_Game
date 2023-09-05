@@ -1,0 +1,5 @@
+Id,Name,ItemIcon,SkillIcon,EffectObject
+1,Hammer,Hammer1,HammerSkillIcon,HammerSkill
+2,Branch,Branch1,BranchSkillIcon,BranchSkill
+3,Sword,Sword1,SwordSkillIcon,SwordSkill
+4,Star,Star1,StarSkillIcon,StarSkill
