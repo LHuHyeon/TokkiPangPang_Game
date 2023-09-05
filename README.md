@@ -1,4 +1,4 @@
-# [Unity 3D] TokkiPangPang Game
+# [Unity 2D] TokkiPangPang Game
 ## 1. 소개
 + Unity 2D 토끼 팡팡 게임입니다.
 
